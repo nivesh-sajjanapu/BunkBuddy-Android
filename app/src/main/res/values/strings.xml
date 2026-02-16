@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BunkBuddy</string>
+    <string name="overall_attendance">Overall: %1$d%%</string>
+    <string name="streak_text">🔥 %1$d class streak</string>
+    <string name="attendance_text">Attendance: %1$d%%</string>
+    <string name="no_classes_yet">No classes yet</string>
+    <string name="below_safe_zone">🚨 Below safe zone</string>
+    <string name="warning_attendance_drop">⚠ Next absence will drop below 75%</string>
+    <string name="safe_for_more_absences">🟢 Safe for %1$d more absences</string>
+    <string name="dashboard_overall_attendance">Overall Attendance: %1$d%%</string>
+</resources>
